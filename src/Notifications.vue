@@ -33,13 +33,6 @@
 </script>
 
 <style>
-	.alert-primary{ background-color: #2c3e50 }
-	.alert-default{ background-color: #95a5a6 }
-	.alert-success{ background-color: #18bc9c }
-	.alert-info{ background-color: #3498db }
-	.alert-warning{ background-color: #f39c12 }
-	.alert-danger{ background-color: #e74c3c }
-
 	.notifications{
 		position: fixed;
 		right: 30px;
@@ -48,6 +41,13 @@
 		min-width: 240px;
 		max-width: 480px;
 	}
+
+	.alert-primary{ background-color: #2c3e50 }
+	.alert-default{ background-color: #95a5a6 }
+	.alert-success{ background-color: #18bc9c }
+	.alert-info{ background-color: #3498db }
+	.alert-warning{ background-color: #f39c12 }
+	.alert-danger{ background-color: #e74c3c }
 
 	.notification{
 		margin-bottom: 10px;

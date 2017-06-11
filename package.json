@@ -2,7 +2,7 @@
   "name": "vue-bs-notify",
   "version": "0.0.1",
   "description": "Vue Bootstrap Nofifications",
-  "main": "./dist/vue-bs-notify.min.js",
+  "main": "./src/index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
