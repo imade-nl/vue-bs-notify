@@ -1,13 +1,13 @@
 # vue-bs-notify
 
 [![npm](https://img.shields.io/npm/v/vue-bs-notify.svg)](https://www.npmjs.com/package/vue-bs-notify)
-[![npm](https://img.shields.io/npm/dt/express.svg)](https://www.npmjs.com/package/vue-bs-notify)
+[![npm](https://img.shields.io/npm/dt/vue-bs-notify.svg)](https://www.npmjs.com/package/vue-bs-notify)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
 Vue Bootstrap Notifications
 
 ### Installation
-``` bash
+```bash
 $ npm install vue-bs-notify --save
 ```
 
